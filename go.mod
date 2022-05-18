@@ -1,3 +1,3 @@
-module github.com/l306287405/dianping
+module github.com/Starrah/dianping
 
 go 1.15
